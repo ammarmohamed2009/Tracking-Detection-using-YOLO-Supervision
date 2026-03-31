@@ -1,4 +1,6 @@
 # 🚶‍♂️ Real-Time Pedestrian Tracking & Crowd Analytics (YOLO + Supervision)
+<img width="1495" height="836" alt="image" src="https://github.com/user-attachments/assets/9de6ac73-7b0c-4709-b6ae-d7a66617b918" />
+
 
 ### 📌 Project Overview
 This project implements a sophisticated **Multi-Object Tracking (MOT)** system designed for urban environments and crowd monitoring. By combining **YOLO**'s detection capabilities with persistent tracking, the system identifies pedestrians and their belongings (handbags, backpacks) while maintaining a unique identity for each entity across the video stream.
